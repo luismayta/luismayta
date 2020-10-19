@@ -1,9 +1,36 @@
 ## Hi, I'm [Luis Mayta!](https://luismayta.github.io) 👋
 
-[![Twitter: slovacus](https://img.shields.io/twitter/follow/slovacus?style=social)](https://twitter.com/slovacus)
-[![Linkedin: slovacus](https://img.shields.io/badge/-slovacus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta/)](https://www.linkedin.com/in/luismayta/)
-[![GitHub luismayta](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta)
-[![website](https://img.shields.io/badge/PortfolioWebsite-luis.mayta-2648ff?style=flat-square&logo=google-chrome)](https://luismayta.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com) 
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51959196850)](https://api.whatsapp.com/send?phone=+51959196850)
+<a href="https://www.linkedin.com/in/luismayta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/Luismayta" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/luismayta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<h3>Things I code with</h3>
+
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-43853d?style=flat-square&logo=Go&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart?style=flat-square&logo=Dart&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-007ACC?style=flat-square&logo=lua&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-007ACC?style=flat-square&logo=Terraform&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Rest" src="https://img.shields.io/badge/-Rest-E10098?style=flat-square&logo=rest&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 
 ### A brief intro ⚡
@@ -25,14 +52,6 @@
 -  In real open source, you have the right to control your own destiny. ~ Linus Torvalds<br />
 </details>
 
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ![LuisMayta github stats](https://github-readme-stats.vercel.app/api?username=luismayta&show_icons=true&theme=dark)
 
