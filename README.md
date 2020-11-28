@@ -1,12 +1,34 @@
-## Hi, I'm [Luis Mayta!](https://luismayta.github.io) 👋
+### Hi there, I'm Luis Mayta👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=luismayta&color=yellow)</div>
 
-[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com) 
+## I'm a Full stack Developer, Technology Entusiast, Movie Buff and Traveller!!
+
+- 🌱 I’m currently exploring new things in technology. 🤣
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 Goals: Contribute more to Open Source projects.
+- 🚀 A Cloud Native dev in love with the Golang and cloud native ecosystem who enjoys understanding and implementing services in the Cloud.
+- ⛰️ Go and GRPC have blown me away and the Developer Experience that they provide makes me never wanna go back to REST,JS and PHP :D
+- 🌱 I’m currently working on Cluster API and the experience is truly amazing. we wrote a cluster api provider for bare metal machines.
+- 😎 I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in
+- 🌱 I’m currently learning Dart.
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/slovacus).
+- 💬 Ask me about Flutter, Go, Python or any tech related stuff.
+<details>
+  <summary><b>:telescope: Favorite Quotes ⚡</b></summary>
+- See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too. ~ Linus Torvalds<br />
+- The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'. Yes, that's it. ~ Linus Torvalds<br />
+- Microsoft isn't evil, they just make really crappy operating systems. ~ Linus Torvalds<br />
+- In real open source, you have the right to control your own destiny. ~ Linus Torvalds<br />
+</details>
+
+### Connect with me
+
+[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51959196850)](https://api.whatsapp.com/send?phone=+51959196850)
 <a href="https://www.linkedin.com/in/luismayta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/Luismayta" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/luismayta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<h3>Things I code with</h3>
+### Technology Stack:
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-43853d?style=flat-square&logo=Go&logoColor=white" />
@@ -37,28 +59,13 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+### :zap: GitHub Stats
 
-### A brief intro ⚡
-
-- 🚀 A Cloud Native dev in love with the Golang and cloud native ecosystem who enjoys understanding and implementing services in the Cloud.
-- ⛰️ Go and GRPC have blown me away and the Developer Experience that they provide makes me never wanna go back to REST,JS and PHP :D
-- 🌱 I’m currently working on Cluster API and the experience is truly amazing. we wrote a cluster api provider for bare metal machines. 
-- 😎 I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in
-- 🔭 I’m currently working on [EquipIndustry](https://equipindustry.com).
-- 🌱 I’m currently learning Dart.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/slovacus).
-- 💬 Ask me about Flutter, Go, Python or any tech related stuff.
-
-<details>
-  <summary><b>:telescope: Favorite Quotes ⚡</b></summary>
--  See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too. ~ Linus Torvalds<br />
--  The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'. Yes, that's it. ~ Linus Torvalds<br />
-- Microsoft isn't evil, they just make really crappy operating systems. ~ Linus Torvalds<br />
--  In real open source, you have the right to control your own destiny. ~ Linus Torvalds<br />
-</details>
-
-
-![LuisMayta github stats](https://github-readme-stats.vercel.app/api?username=luismayta&show_icons=true&theme=dark)
-
-
-### Show some ❤️ by starring some of the repositories!
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.luismayta.vercel.app/api/top-langs/?username=luismayta&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.luismayta.vercel.app/api?username=luismayta&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>
+  </table>
+</center>
