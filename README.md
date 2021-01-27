@@ -22,10 +22,7 @@
 
 ### Connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51959196850)](https://api.whatsapp.com/send?phone=+51959196850)
-[![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
-<a href="https://www.linkedin.com/in/luismayta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.facebook.com/Luismayta" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://www.instagram.com/luismayta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta/)](https://www.linkedin.com/in/luismayta/) [![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com) [![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta) [![CodersRank](https://img.shields.io/badge/-luismayta-67A4AC?style=flat-square&labelColor=ffffff&logo=codersrank&link=https://profile.codersrank.io/user/luismayta)](https://profile.codersrank.io/user/luismayta) [![Medium Badge](https://img.shields.io/badge/-@luismayta-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@luismayta/)](https://medium.com/@luismayta)
 
 ### Technology Stack:
 
