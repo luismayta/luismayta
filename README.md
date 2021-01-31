@@ -1,4 +1,7 @@
-### Hi there, I'm Luis Mayta👋 <div align = 'right'>[![GitHub luismayta](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta) ![](https://komarev.com/ghpvc/?username=luismayta&color=yellow)</div>
+### Hi there, I'm Luis Mayta👋 <div align = 'right'>
+[![GitHub luismayta](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta) ![](https://komarev.com/ghpvc/?username=luismayta&color=yellow)
+[![HitCount](http://hits.dwyl.com/luismayta/luismayta.svg)](http://hits.dwyl.com/luismayta/luismayta)
+</div>
 
 ## I'm a Full stack Developer, Technology Entusiast, Movie Buff and Traveller!!
 
