@@ -30,9 +30,10 @@ jobs:
           writeTo: "README.md"
 
       - name: commit docs readme
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4.9.2
         env:
           GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
         with:
           commit_message: 'docs: update generated readme'
           branch: develop
+          commit_options: '--no-verify --signoff'
