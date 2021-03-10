@@ -19,7 +19,7 @@ env:
   LC_ALL: en_US.UTF-8
 
 jobs:
-  build:
+  precommit:
     name: build
     runs-on: Ubuntu-20.04
     env:
