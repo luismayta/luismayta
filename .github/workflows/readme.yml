@@ -29,11 +29,6 @@ jobs:
           template: "provision/templates/README.tpl.md"
           writeTo: "README.md"
 
-      - name: upload readme
-        uses: actions/upload-artifact@v2
-        with:
-          path: README.md
-
       - name: commit docs readme
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
