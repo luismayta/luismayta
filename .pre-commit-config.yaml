@@ -45,14 +45,15 @@ repos:
         args:
           - '--write=true'
           - '--list-different'
-          - '--config=prettier.config.js'
-        files: \.(js?(on),ts?(x),scss,md,y?(a)ml,gql,graphql?(s),less,mjml,html)$
-        exclude: lib|node_modules
+          - '--config=.github/linters/prettier.config.js'
+          - '--ignore-path=.github/linters/.prettierignore'
+        files: \.(js|jsx|json|ts|tsx|mjs|d.ts|md|yml|yaml|gql|graphql|mjml)$
+        exclude: node_modules
       - id: eslint
         name: eslint
         language: system
         pass_filenames: true
-        entry: node_modules/eslint/bin/eslint.js --config=.eslintrc.js --ignore-path=.eslintignore --color
+        entry: node_modules/eslint/bin/eslint.js --config=.github/linters/.eslintrc.js --ignore-path=.github/linters/.eslintignore --color
         args:
           - '--fix'
         files: \.(js|jsx|ts|tsx|mjs|d.ts)$
@@ -60,6 +61,13 @@ repos:
         name: stylint
         language: system
         pass_filenames: true
-        entry: node_modules/stylelint/bin/stylelint.js --config=.stylintrc --syntax less **/*.less
+        entry: node_modules/stylelint/bin/stylelint.js --config=.github/linters/.stylintrc --syntax less **/*.less
         args: [--fix]
-        files: \.(less)$
+        files: \.(css|scss|sass|less)$
+      - id: dockerfile-provides-entrypoint
+        name: hadolint
+        description: Lint Dockerfiles with hadolint
+        language: docker_image
+        entry: --entrypoint /bin/hadolint hadolint/hadolint:latest --ignore DL3008 --ignore DL3013 --ignore DL3018 --ignore DL3008 --ignore DL4006 --ignore SC2001 --ignore SC2086 --ignore SC2102 -
+        types: [file]
+        files: Dockerfile(.*)
