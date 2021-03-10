@@ -1,9 +1,10 @@
 ### Hi there, I'm Luis Mayta👋 <div align = 'right'>
+
 [![GitHub luismayta](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta) ![](https://komarev.com/ghpvc/?username=luismayta&color=yellow)
-[![HitCount](http://hits.dwyl.com/luismayta/luismayta.svg)](http://hits.dwyl.com/luismayta/luismayta)
+
 </div>
 
-## I'm a Full stack Developer, Technology Entusiast, Movie Buff and Traveller!!
+## I'm a Full stack Developer, Technology Entusiast and Movie!!
 
 - 🌱 I’m currently exploring new things in technology. 🤣
 - 🌱 I’m currently working on Cluster API and the experience is truly Amazing. We wrote a cluster api provider for bare metal machines.
@@ -24,25 +25,17 @@
 
 ### Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta/)](https://www.linkedin.com/in/luismayta/)
-[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com)
-[![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
+[![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta/)](https://www.linkedin.com/in/luismayta/) [![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com) [![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
 
 ### Links
 
-[![CodersRank](https://img.shields.io/badge/-luismayta-67A4AC?style=flat-square&labelColor=ffffff&logo=codersrank&link=https://profile.codersrank.io/user/luismayta)](https://profile.codersrank.io/user/luismayta)
-[![Medium Badge](https://img.shields.io/badge/-@luismayta-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@luismayta/)](https://medium.com/@luismayta)
+[![CodersRank](https://img.shields.io/badge/-luismayta-67A4AC?style=flat-square&labelColor=ffffff&logo=codersrank&link=https://profile.codersrank.io/user/luismayta)](https://profile.codersrank.io/user/luismayta) [![Medium Badge](https://img.shields.io/badge/-@luismayta-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@luismayta/)](https://medium.com/@luismayta)
 
-[![Keybase:luismayta](https://img.shields.io/badge/Keybase-luismayta-brightgreen?style=flat-square&logo=keybase)](https://keybase.io/luismayta)
-[![Keybase Chat:luismayta](https://img.shields.io/badge/Keybase%20Chat-luismayta-blue?style=flat-square&logo=keybase)](https://keybase.io/luismayta/chat)
-[![SSH:GitHub luismayta](https://img.shields.io/badge/SSH--GitHub-luismayta.keys-red?style=flat-square&logo=GitHub)](https://github.com/luismayta.keys)
+[![Keybase:luismayta](https://img.shields.io/badge/Keybase-luismayta-brightgreen?style=flat-square&logo=keybase)](https://keybase.io/luismayta) [![Keybase Chat:luismayta](https://img.shields.io/badge/Keybase%20Chat-luismayta-blue?style=flat-square&logo=keybase)](https://keybase.io/luismayta/chat) [![SSH:GitHub luismayta](https://img.shields.io/badge/SSH--GitHub-luismayta.keys-red?style=flat-square&logo=GitHub)](https://github.com/luismayta.keys)
 
-[![GPG:GitHub luismayta](https://img.shields.io/badge/GPG--GitHub-luismayta/gpg_keys-red?style=flat-square&logo=GitHub)](https://api.github.com/users/luismayta/gpg_keys)
-[![GPG:Keybase luismayta](https://img.shields.io/badge/GPG--Keybase-luismayta/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/luismayta/pgp_keys.asc)
+[![GPG:GitHub luismayta](https://img.shields.io/badge/GPG--GitHub-luismayta/gpg_keys-red?style=flat-square&logo=GitHub)](https://api.github.com/users/luismayta/gpg_keys) [![GPG:Keybase luismayta](https://img.shields.io/badge/GPG--Keybase-luismayta/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/luismayta/pgp_keys.asc)
 
-[![GitHub:luismayta](https://img.shields.io/badge/GitHub-luismayta-f06?style=flat-square&logo=GitHub)](https://github.com/luismayta)
-[![GitHub:Gist luismayta](https://img.shields.io/badge/Gist%20GitHub-luismayta-f64?style=flat-square&logo=GitHub)](https://gist.github.com/luismayta)
-[![GitHub:Pages luismayta](https://img.shields.io/badge/GitHub%20Pages-luismayta-f7b?style=flat-square&logo=GitHub)](https://luismayta.github.io)
+[![GitHub:luismayta](https://img.shields.io/badge/GitHub-luismayta-f06?style=flat-square&logo=GitHub)](https://github.com/luismayta) [![GitHub:Gist luismayta](https://img.shields.io/badge/Gist%20GitHub-luismayta-f64?style=flat-square&logo=GitHub)](https://gist.github.com/luismayta) [![GitHub:Pages luismayta](https://img.shields.io/badge/GitHub%20Pages-luismayta-f7b?style=flat-square&logo=GitHub)](https://luismayta.github.io)
 
 ### ⚡ Technology Stack:
 
