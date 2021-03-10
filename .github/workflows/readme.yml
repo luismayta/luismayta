@@ -1,0 +1,39 @@
+name: generate readme
+
+on:
+  push:
+  schedule:
+    - cron: "0 0 */1 * *"
+
+jobs:
+  readme:
+    name: generate readme
+    runs-on: Ubuntu-20.04
+    env:
+      LANG: en_US.UTF-8
+      LC_ALL: en_US.UTF-8
+      GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
+    steps:
+      - name: check out a copy of the repo
+        uses: actions/checkout@master
+
+      - name: generate readme
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
+        with:
+          template: "provision/templates/README.tpl.md"
+          writeTo: "README.md"
+
+      - name: upload readme
+        uses: actions/upload-artifact@v2
+        with:
+          path: README.md
+
+      - name: commit docs readme
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
+        with:
+          commit_message: 'docs: update generated readme'
+          branch: develop
