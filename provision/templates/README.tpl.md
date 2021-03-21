@@ -33,7 +33,7 @@
 {{- end }}
 
 #### 📓 Gists I wrote
-{{range gists 5}}
+{{range gists 3}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
