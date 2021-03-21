@@ -28,7 +28,7 @@
 
 #### 👨‍💻 Repositories I created recently
 
-{{- range recentRepos 3 }}
+{{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
@@ -44,13 +44,13 @@
 {{- end }}
 
 #### 👯 Check out some of my recent followers
-{{range followers 5}}
+{{ range followers 5 }}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
 #### ❤️ Sponsors
 
-{{- range sponsors 5 }}
+{{ range sponsors 5 }}
 - [{{ .User.Name }}]({{ .User.URL }}) ({{ humanize .CreatedAt }})
 {{- end }}
 
