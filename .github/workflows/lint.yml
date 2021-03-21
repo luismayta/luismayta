@@ -21,7 +21,7 @@ env:
 jobs:
   precommit:
     name: build
-    runs-on: Ubuntu-20.04
+    runs-on: ubuntu-20.04
     env:
       LANG: en_US.UTF-8
       LC_ALL: en_US.UTF-8
