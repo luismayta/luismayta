@@ -2,7 +2,7 @@ name: generate readme
 
 on:
   schedule:
-    - cron: "0 0 */1 * *"
+    - cron: '0 0 */1 * *'
 
   pull_request:
     branches:
@@ -17,7 +17,6 @@ jobs:
       LC_ALL: en_US.UTF-8
       GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
     steps:
-
       - name: check out a copy of the repo
         uses: actions/checkout@v2
 
@@ -26,8 +25,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ env.GH_TOKEN }}
         with:
-          template: "provision/templates/README.md.tpl"
-          writeTo: "README.md"
+          template: 'provision/templates/README.md.tpl'
+          writeTo: 'README.md'
 
       - name: commit resume pdf
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -37,6 +36,6 @@ jobs:
           commit_message: 'build: update generated readme'
           branch: develop
           commit_options: '--no-verify --signoff'
-          commit_user_name: "@slovacus"
-          commit_user_email: "slovacus@gmail.com"
-          commit_author: "slovacus <slovacus@gmail.com>"
+          commit_user_name: '@slovacus'
+          commit_user_email: 'slovacus@gmail.com'
+          commit_author: 'slovacus <slovacus@gmail.com>'
