@@ -38,7 +38,7 @@ MESSAGE_HAPPY?:="Done! ${MESSAGE}, Now Happy Hacking"
 SOURCE_DIR=$(ROOT_DIR)
 PROVISION_DIR:=$(ROOT_DIR)/provision
 DOCS_DIR:=$(ROOT_DIR)/docs
-README_TEMPLATE:=$(PROVISION_DIR)/templates/README.tpl.md
+README_TEMPLATE:=$(PROVISION_DIR)/templates/README.md.tpl
 
 export README_FILE ?= README.md
 export README_YAML ?= provision/generators/README.yaml
