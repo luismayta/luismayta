@@ -23,7 +23,6 @@ REPOSITORY_DOMAIN:=github.com
 REPOSITORY_OWNER:=${TEAM}
 AWS_VAULT ?= ${TEAM}
 PROJECT=luismayta
-PROJECT_PORT := 3000
 
 PYTHON_VERSION=3.8.0
 NODE_VERSION=14.15.5
@@ -58,6 +57,7 @@ help:
 	@echo '    readme                    build README'
 	@echo ''
 	@make git.help
+	@make docs.help
 	@make python.help
 	@make yarn.help
 
@@ -67,7 +67,7 @@ readme:
 		--out $(README_FILE)
 
 setup:
-	@echo "=====> install packages..."
+	@echo "==> install packages..."
 	make python.setup
 	make python.precommit
 	@cp -rf provision/git/hooks/prepare-commit-msg .git/hooks/
@@ -77,6 +77,6 @@ setup:
 	@echo ${MESSAGE_HAPPY}
 
 environment:
-	@echo "=====> loading virtualenv ${PYENV_NAME}..."
+	@echo "==> loading virtualenv ${PYENV_NAME}..."
 	make python.environment
 	@echo ${MESSAGE_HAPPY}
