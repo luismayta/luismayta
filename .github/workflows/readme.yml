@@ -23,7 +23,7 @@ jobs:
       - name: generate readme
         uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ env.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
         with:
           template: 'provision/templates/README.md.tpl'
           writeTo: 'README.md'
@@ -31,9 +31,9 @@ jobs:
       - name: commit resume pdf
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ env.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
         with:
-          commit_message: 'build: update generated readme'
+          commit_message: 'build: update readme'
           branch: develop
           commit_options: '--no-verify --signoff'
           commit_user_name: '@slovacus'
