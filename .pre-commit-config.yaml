@@ -64,10 +64,3 @@ repos:
         entry: node_modules/stylelint/bin/stylelint.js --config=.github/linters/.stylintrc --syntax less **/*.less
         args: [--fix]
         files: \.(css|scss|sass|less)$
-      - id: dockerfile-provides-entrypoint
-        name: hadolint
-        description: Lint Dockerfiles with hadolint
-        language: docker_image
-        entry: --entrypoint /bin/hadolint hadolint/hadolint:latest --ignore DL3008 --ignore DL3013 --ignore DL3018 --ignore DL3008 --ignore DL4006 --ignore SC2001 --ignore SC2086 --ignore SC2102 -
-        types: [file]
-        files: Dockerfile(.*)
