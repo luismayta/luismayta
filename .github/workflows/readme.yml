@@ -26,7 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ env.GH_TOKEN }}
         with:
-          template: "provision/templates/README.tpl.md"
+          template: "provision/templates/README.md.tpl"
           writeTo: "README.md"
 
       - name: commit resume pdf
