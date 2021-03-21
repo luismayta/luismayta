@@ -8,10 +8,6 @@ on:
     branches:
       - develop
 
-  push:
-    branches:
-      - develop
-
 env:
   NODE_VERSION: 14.15.5
   PYTHON_VERSION: 3.8.0
