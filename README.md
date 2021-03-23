@@ -43,11 +43,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [beudbeud](https://github.com/beudbeud)
 - [Socehri](https://github.com/Socehri)
 - [walczy](https://github.com/walczy)
 - [wertherm](https://github.com/wertherm)
 - [nirikshan](https://github.com/nirikshan)
-- [Rider-io](https://github.com/Rider-io)
 
 #### ❤️ Sponsors
 
