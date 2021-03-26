@@ -24,7 +24,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 {{- end }}
 
 #### 📓 Gists I wrote
-{{range gists 3}}
+{{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
