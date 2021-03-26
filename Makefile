@@ -38,12 +38,7 @@ MESSAGE_HAPPY?:="Done! ${MESSAGE}, Now Happy Hacking"
 SOURCE_DIR=$(ROOT_DIR)
 PROVISION_DIR:=$(ROOT_DIR)/provision
 DOCS_DIR:=$(ROOT_DIR)/docs
-README_TEMPLATE:=$(PROVISION_DIR)/templates/README.md.tpl
-
-export README_FILE ?= README.md
-export README_YAML ?= provision/generators/README.yaml
-export README_INCLUDES ?= $(file://$(shell pwd)/?type=text/plain)
-
+README_TEMPLATE:=$(PROVISION_DIR)/templates/README.tpl.md
 FILE_README:=$(ROOT_DIR)/README.md
 
 include provision/make/*.mk
@@ -63,8 +58,7 @@ help:
 
 ## Create README.md by building it from README.yaml
 readme:
-	@gomplate --file $(README_TEMPLATE) \
-		--out $(README_FILE)
+	@markscribe -write $(FILE_README) $(README_TEMPLATE)
 
 setup:
 	@echo "==> install packages..."

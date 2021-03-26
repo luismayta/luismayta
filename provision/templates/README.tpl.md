@@ -1,11 +1,11 @@
-### Hi there, I'm Luis Mayta👋 <div align = 'right'> [![GitHub luismayta](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta) ![](https://komarev.com/ghpvc/?username=luismayta&color=yellow)
+### Hi there, I'm Luis Mayta👋<div align = 'right'> [![GitHub luismayta](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta) ![](https://komarev.com/ghpvc/?username=luismayta&color=yellow) </div>
 
 I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, Python, Haskell and Dart Lover!!
 
-- 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
-- 🥅 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about Flutter, Go, Python or any tech related stuff.
+* 🌱 I’m currently exploring new things in technology. 🤣
+* 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
+* 🥅 Goals: Contribute more to Open Source projects.
+* 💬 Ask me about Flutter, Go, Python or any tech related stuff.
 
 #### Favorite Quotes ⚡
 
