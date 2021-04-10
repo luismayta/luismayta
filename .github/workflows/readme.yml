@@ -2,7 +2,7 @@ name: generate readme
 
 on:
   workflow_run:
-    workflows: ["lint code"]
+    workflows: ['lint code']
     types:
       - completed
 
