@@ -2,23 +2,21 @@
 
 I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, Python, Haskell and Dart Lover!!
 
-* 🌱 I’m currently exploring new things in technology. 🤣
-* 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
-* 🥅 Goals: Contribute more to Open Source projects.
-* 💬 Ask me about Flutter, Go, Python or any tech related stuff.
+- 🌱 I’m currently exploring new things in technology. 🤣
+- 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
+- 🥅 Goals: Contribute more to Open Source projects.
+- 💬 Ask me about Flutter, Go, Python or any tech related stuff.
 
 #### Favorite Quotes ⚡
 
-* Microsoft isn't evil, they just make really crappy operating systems. ~ Linus Torvalds
-* In real open source, you have the right to control your own destiny. ~ Linus Torvalds
-* Talk less, Do More.
-* Es mejor cometer un error que no hacer nada.
-* No todas las personas que se esfuerzan tienen exito, pero no conozco ninguna persona que tenga exito y no se haya esforzado.
-* Eres consciente de tus limitaciones pero las limitaciones estan ahi para poder superarlas, el resto solo depende de ti.
-
+- Microsoft isn't evil, they just make really crappy operating systems. ~ Linus Torvalds
+- In real open source, you have the right to control your own destiny. ~ Linus Torvalds
+- Talk less, Do More.
+- Es mejor cometer un error que no hacer nada.
+- No todas las personas que se esfuerzan tienen exito, pero no conozco ninguna persona que tenga exito y no se haya esforzado.
+- Eres consciente de tus limitaciones pero las limitaciones estan ahi para poder superarlas, el resto solo depende de ti.
 
 #### 👨‍💻 Repositories I created recently
-
 
 - [luismayta/learn-ruby](https://github.com/luismayta/learn-ruby) - Learn ruby
 - [luismayta/repository-example](https://github.com/luismayta/repository-example) - github repository for repository
@@ -36,7 +34,6 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
-
 - [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 3 days ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 2 weeks ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 3 weeks ago) - tools for bitwarden
@@ -53,12 +50,8 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### ❤️ Sponsors
 
-
-
 Many thanks everyone! 🙏
 
 #### 📫 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta)](https://www.linkedin.com/in/luismayta)
-[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com)
-[![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
+[![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta)](https://www.linkedin.com/in/luismayta) [![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com) [![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
