@@ -1,32 +1,34 @@
-### Hi there, I'm Luis Mayta👋<div align = 'right'> [![GitHub luismayta](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta) ![](https://komarev.com/ghpvc/?username=luismayta&color=yellow) </div>
+### Hi there, I'm Luis Mayta👋<div align = 'right'> [![GitHub luismayta stars](https://img.shields.io/github/stars/luismayta?label=stars&style=social)](https://github.com/luismayta) [![GitHub luismayta follower](https://img.shields.io/github/followers/luismayta?label=follow&style=social)](https://github.com/luismayta) ![](https://komarev.com/ghpvc/?username=luismayta&color=yellow) </div>
 
 I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, Python, Haskell and Dart Lover!!
 
-- 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
-- 🥅 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about Flutter, Go, Python or any tech related stuff.
+* 🌱 I’m currently exploring new things in technology. 🤣
+* 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
+* 🥅 Goals: Contribute more to Open Source projects.
+* 💬 Ask me about Flutter, Go, Python or any tech related stuff.
 
 #### Favorite Quotes ⚡
 
-- Microsoft isn't evil, they just make really crappy operating systems. ~ Linus Torvalds
-- In real open source, you have the right to control your own destiny. ~ Linus Torvalds
-- Talk less, Do More.
-- Es mejor cometer un error que no hacer nada.
-- No todas las personas que se esfuerzan tienen exito, pero no conozco ninguna persona que tenga exito y no se haya esforzado.
-- Eres consciente de tus limitaciones pero las limitaciones estan ahi para poder superarlas, el resto solo depende de ti.
+* Microsoft isn't evil, they just make really crappy operating systems. ~ Linus Torvalds
+* In real open source, you have the right to control your own destiny. ~ Linus Torvalds
+* Talk less, Do More.
+* Es mejor cometer un error que no hacer nada.
+* No todas las personas que se esfuerzan tienen exito, pero no conozco ninguna persona que tenga exito y no se haya esforzado.
+* Eres consciente de tus limitaciones pero las limitaciones estan ahi para poder superarlas, el resto solo depende de ti.
+
 
 #### 👨‍💻 Repositories I created recently
 
+
+- [luismayta/learn-ruby](https://github.com/luismayta/learn-ruby) - Learn ruby
 - [luismayta/repository-example](https://github.com/luismayta/repository-example) - github repository for repository
 - [luismayta/base-infrastructure](https://github.com/luismayta/base-infrastructure) - Base infrastructure
 - [luismayta/starred-repos](https://github.com/luismayta/starred-repos) - Starred repos
 - [luismayta/git-flow](https://github.com/luismayta/git-flow)
-- [luismayta/zsh-fnm](https://github.com/luismayta/zsh-fnm)
 
 #### 📓 Gists I wrote
 
-- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (1 month ago)
+- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (2 months ago)
 - [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (2 months ago)
 - [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (2 months ago)
 - [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (2 months ago)
@@ -34,24 +36,29 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
-- [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 1 day ago) - Get notified when your command is done
-- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.7.2](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.7.2), 1 week ago) - github repository for terraform
-- [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 1 week ago) - tools for bitwarden
-- [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 1 week ago) - readme template
+
+- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 3 days ago) - github repository for terraform
+- [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 2 weeks ago) - Get notified when your command is done
+- [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 3 weeks ago) - tools for bitwarden
+- [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 4 weeks ago) - readme template
 - [hadenlabs/docker-hugo](https://github.com/hadenlabs/docker-hugo) ([0.1.1](https://github.com/hadenlabs/docker-hugo/releases/tag/0.1.1), 1 month ago) - Docker image for hugo static page generator (https://gohugo.io)
 
 #### 👯 Check out some of my recent followers
 
-- [beudbeud](https://github.com/beudbeud)
-- [Socehri](https://github.com/Socehri)
-- [walczy](https://github.com/walczy)
-- [wertherm](https://github.com/wertherm)
-- [nirikshan](https://github.com/nirikshan)
+- [lowlighter](https://github.com/lowlighter)
+- [Dum-U](https://github.com/Dum-U)
+- [And96](https://github.com/And96)
+- [AnguloVallleWilliam](https://github.com/AnguloVallleWilliam)
+- [xuzi0803](https://github.com/xuzi0803)
 
 #### ❤️ Sponsors
+
+
 
 Many thanks everyone! 🙏
 
 #### 📫 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta/)](https://www.linkedin.com/in/luismayta/) [![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com) [![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
+[![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta)](https://www.linkedin.com/in/luismayta)
+[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com)
+[![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
