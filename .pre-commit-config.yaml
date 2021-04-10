@@ -32,10 +32,12 @@ repos:
       - id: mixed-line-ending
         fix: lr
       - id: check-executables-have-shebangs
-  - repo: https://github.com/tcassou/python-pre-commit-hooks
-    rev: 3383e2f83463370cf4651040fb697a636bb0374e
+  - repo: https://github.com/hadenlabs/pre-commit-hooks
+    rev: 854ed71a505def3024bf9a79887032e9906b355c
     hooks:
-      - id: do_not_commit
+      - id: do-not-commit
+      - id: markdown-link-check
+        exclude: \.tpl.md$
   - repo: local
     hooks:
       - id: prettier
