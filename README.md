@@ -19,10 +19,10 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 #### 👨‍💻 Repositories I created recently
 
 - [luismayta/learn-ruby](https://github.com/luismayta/learn-ruby) - Learn ruby
+- [luismayta/terraform-tags](https://github.com/luismayta/terraform-tags) - Terraform tags
 - [luismayta/repository-example](https://github.com/luismayta/repository-example) - github repository for repository
 - [luismayta/base-infrastructure](https://github.com/luismayta/base-infrastructure) - Base infrastructure
 - [luismayta/starred-repos](https://github.com/luismayta/starred-repos) - Starred repos
-- [luismayta/git-flow](https://github.com/luismayta/git-flow)
 
 #### 📓 Gists I wrote
 
@@ -34,10 +34,10 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 4 days ago) - github repository for terraform
+- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 5 days ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 2 weeks ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 4 weeks ago) - tools for bitwarden
-- [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 4 weeks ago) - readme template
+- [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 1 month ago) - readme template
 - [hadenlabs/docker-hugo](https://github.com/hadenlabs/docker-hugo) ([0.1.1](https://github.com/hadenlabs/docker-hugo/releases/tag/0.1.1), 1 month ago) - Docker image for hugo static page generator (https://gohugo.io)
 
 #### 👯 Check out some of my recent followers
