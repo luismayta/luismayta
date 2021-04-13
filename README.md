@@ -27,16 +27,16 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 #### 📓 Gists I wrote
 
 - [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (2 months ago)
-- [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (2 months ago)
-- [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (2 months ago)
-- [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (2 months ago)
-- [](https://gist.github.com/1dd993b8a459c789e309eed162e3e73c) (2 months ago)
+- [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (3 months ago)
+- [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (3 months ago)
+- [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (3 months ago)
+- [](https://gist.github.com/1dd993b8a459c789e309eed162e3e73c) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 5 days ago) - github repository for terraform
+- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 6 days ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 2 weeks ago) - Get notified when your command is done
-- [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 4 weeks ago) - tools for bitwarden
+- [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 1 month ago) - tools for bitwarden
 - [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 1 month ago) - readme template
 - [hadenlabs/docker-hugo](https://github.com/hadenlabs/docker-hugo) ([0.1.1](https://github.com/hadenlabs/docker-hugo/releases/tag/0.1.1), 1 month ago) - Docker image for hugo static page generator (https://gohugo.io)
 
