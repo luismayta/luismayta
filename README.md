@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [emmanuelbarturen](https://github.com/emmanuelbarturen)
 - [hadenbot](https://github.com/hadenbot)
 - [lowlighter](https://github.com/lowlighter)
 - [Dum-U](https://github.com/Dum-U)
 - [And96](https://github.com/And96)
-- [AnguloVallleWilliam](https://github.com/AnguloVallleWilliam)
 
 #### ❤️ Sponsors
 
