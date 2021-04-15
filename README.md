@@ -18,11 +18,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👨‍💻 Repositories I created recently
 
+- [luismayta/yasnippet-snippets](https://github.com/luismayta/yasnippet-snippets) - a collection of yasnippet snippets for many languages
 - [luismayta/learn-ruby](https://github.com/luismayta/learn-ruby) - Learn ruby
 - [luismayta/terraform-tags](https://github.com/luismayta/terraform-tags) - Terraform tags
 - [luismayta/repository-example](https://github.com/luismayta/repository-example) - github repository for repository
 - [luismayta/base-infrastructure](https://github.com/luismayta/base-infrastructure) - Base infrastructure
-- [luismayta/starred-repos](https://github.com/luismayta/starred-repos) - Starred repos
 
 #### 📓 Gists I wrote
 
