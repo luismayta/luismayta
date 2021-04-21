@@ -34,7 +34,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 1 week ago) - github repository for terraform
+- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 2 weeks ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 3 weeks ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 1 month ago) - tools for bitwarden
 - [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 1 month ago) - readme template
@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [anitatabaczka](https://github.com/anitatabaczka)
 - [emmanuelbarturen](https://github.com/emmanuelbarturen)
 - [hadenbot](https://github.com/hadenbot)
 - [lowlighter](https://github.com/lowlighter)
 - [Dum-U](https://github.com/Dum-U)
-- [And96](https://github.com/And96)
 
 #### ❤️ Sponsors
 
