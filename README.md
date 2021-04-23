@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [KevinJZea](https://github.com/KevinJZea)
+- [Aslam97](https://github.com/Aslam97)
+- [silverjean](https://github.com/silverjean)
 - [AdrianCapchaQuispe](https://github.com/AdrianCapchaQuispe)
 - [Ociba](https://github.com/Ociba)
-- [anitatabaczka](https://github.com/anitatabaczka)
-- [emmanuelbarturen](https://github.com/emmanuelbarturen)
-- [hadenbot](https://github.com/hadenbot)
 
 #### ❤️ Sponsors
 
