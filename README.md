@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [primexdev](https://github.com/primexdev)
+- [MdRashid62](https://github.com/MdRashid62)
+- [ClaudiaJKang](https://github.com/ClaudiaJKang)
 - [acatzk](https://github.com/acatzk)
 - [rc-chuah](https://github.com/rc-chuah)
-- [Magicianred](https://github.com/Magicianred)
-- [amirmohammad0000](https://github.com/amirmohammad0000)
-- [jimmywilk](https://github.com/jimmywilk)
 
 #### ❤️ Sponsors
 
