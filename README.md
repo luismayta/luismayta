@@ -18,11 +18,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👨‍💻 Repositories I created recently
 
+- [luismayta/base-learn-template](https://github.com/luismayta/base-learn-template) - Base learn template
 - [luismayta/yasnippet-snippets](https://github.com/luismayta/yasnippet-snippets) - a collection of yasnippet snippets for many languages
 - [luismayta/learn-ruby](https://github.com/luismayta/learn-ruby) - Learn ruby
 - [luismayta/terraform-tags](https://github.com/luismayta/terraform-tags) - Terraform tags
 - [luismayta/repository-example](https://github.com/luismayta/repository-example) - github repository for repository
-- [luismayta/base-infrastructure](https://github.com/luismayta/base-infrastructure) - Base infrastructure
 
 #### 📓 Gists I wrote
 
@@ -34,7 +34,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 2 weeks ago) - github repository for terraform
+- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 3 weeks ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 1 month ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 1 month ago) - tools for bitwarden
 - [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 1 month ago) - readme template
@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [DS693](https://github.com/DS693)
+- [potatogim](https://github.com/potatogim)
+- [microsoftjulius](https://github.com/microsoftjulius)
 - [primexdev](https://github.com/primexdev)
 - [MdRashid62](https://github.com/MdRashid62)
-- [ClaudiaJKang](https://github.com/ClaudiaJKang)
-- [acatzk](https://github.com/acatzk)
-- [rc-chuah](https://github.com/rc-chuah)
 
 #### ❤️ Sponsors
 
