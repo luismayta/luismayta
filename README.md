@@ -18,15 +18,15 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👨‍💻 Repositories I created recently
 
-- [luismayta/base-learn-template](https://github.com/luismayta/base-learn-template) - Base learn template
-- [luismayta/yasnippet-snippets](https://github.com/luismayta/yasnippet-snippets) - a collection of yasnippet snippets for many languages
-- [luismayta/learn-ruby](https://github.com/luismayta/learn-ruby) - Learn ruby
-- [luismayta/terraform-tags](https://github.com/luismayta/terraform-tags) - Terraform tags
-- [luismayta/repository-example](https://github.com/luismayta/repository-example) - github repository for repository
+- [luismayta/learn-lua](https://github.com/luismayta/learn-lua) - Learn lua
+- [luismayta/learn-python](https://github.com/luismayta/learn-python) - Learn python
+- [luismayta/learn-regex](https://github.com/luismayta/learn-regex) - Learn regex
+- [luismayta/learn-dart](https://github.com/luismayta/learn-dart) - Learn dart
+- [luismayta/learn-haskell](https://github.com/luismayta/learn-haskell) - Learn haskell
 
 #### 📓 Gists I wrote
 
-- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (2 months ago)
+- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (3 months ago)
 - [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (3 months ago)
 - [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (3 months ago)
 - [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (3 months ago)
