@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [brianmingus2](https://github.com/brianmingus2)
 - [DeivyPereira](https://github.com/DeivyPereira)
 - [DS693](https://github.com/DS693)
 - [potatogim](https://github.com/potatogim)
 - [microsoftjulius](https://github.com/microsoftjulius)
-- [primexdev](https://github.com/primexdev)
 
 #### ❤️ Sponsors
 
