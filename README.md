@@ -42,10 +42,10 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [aryashah2k](https://github.com/aryashah2k)
 - [alexemanuelol](https://github.com/alexemanuelol)
 - [matheusgarrido](https://github.com/matheusgarrido)
 - [ImGabreuw](https://github.com/ImGabreuw)
-- [aryashah2k](https://github.com/aryashah2k)
 - [rakktheantenna](https://github.com/rakktheantenna)
 
 #### ❤️ Sponsors
