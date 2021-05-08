@@ -34,19 +34,19 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
+- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.1](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.1), 1 day ago) - Contains our custom action for running pre-commit
 - [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 1 month ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 1 month ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 1 month ago) - tools for bitwarden
 - [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 1 month ago) - readme template
-- [hadenlabs/docker-hugo](https://github.com/hadenlabs/docker-hugo) ([0.1.1](https://github.com/hadenlabs/docker-hugo/releases/tag/0.1.1), 2 months ago) - Docker image for hugo static page generator (https://gohugo.io)
 
 #### 👯 Check out some of my recent followers
 
 - [PremChapagain](https://github.com/PremChapagain)
 - [aryashah2k](https://github.com/aryashah2k)
-- [alexemanuelol](https://github.com/alexemanuelol)
 - [matheusgarrido](https://github.com/matheusgarrido)
 - [ImGabreuw](https://github.com/ImGabreuw)
+- [rakktheantenna](https://github.com/rakktheantenna)
 
 #### ❤️ Sponsors
 
