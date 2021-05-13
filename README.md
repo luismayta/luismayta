@@ -27,26 +27,26 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 #### 📓 Gists I wrote
 
 - [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (3 months ago)
-- [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (3 months ago)
-- [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (3 months ago)
-- [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (3 months ago)
-- [](https://gist.github.com/1dd993b8a459c789e309eed162e3e73c) (3 months ago)
+- [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (4 months ago)
+- [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (4 months ago)
+- [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (4 months ago)
+- [](https://gist.github.com/1dd993b8a459c789e309eed162e3e73c) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.1](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.1), 5 days ago) - Contains our custom action for running pre-commit
+- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.1](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.1), 6 days ago) - Contains our custom action for running pre-commit
 - [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 1 month ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 1 month ago) - Get notified when your command is done
-- [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 1 month ago) - tools for bitwarden
+- [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 2 months ago) - tools for bitwarden
 - [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 2 months ago) - readme template
 
 #### 👯 Check out some of my recent followers
 
+- [PineappleClout](https://github.com/PineappleClout)
+- [jofrantoba](https://github.com/jofrantoba)
+- [ramazansakin](https://github.com/ramazansakin)
+- [vikichand](https://github.com/vikichand)
 - [PremChapagain](https://github.com/PremChapagain)
-- [aryashah2k](https://github.com/aryashah2k)
-- [ImGabreuw](https://github.com/ImGabreuw)
-- [rakktheantenna](https://github.com/rakktheantenna)
-- [brianmingus2](https://github.com/brianmingus2)
 
 #### ❤️ Sponsors
 
