@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [StevenACZ](https://github.com/StevenACZ)
 - [PineappleClout](https://github.com/PineappleClout)
 - [jofrantoba](https://github.com/jofrantoba)
 - [ramazansakin](https://github.com/ramazansakin)
 - [vikichand](https://github.com/vikichand)
-- [PremChapagain](https://github.com/PremChapagain)
 
 #### ❤️ Sponsors
 
