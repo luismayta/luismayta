@@ -34,7 +34,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.2](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.2), 3 days ago) - Contains our custom action for running pre-commit
+- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.2](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.2), 4 days ago) - Contains our custom action for running pre-commit
 - [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 1 month ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 2 months ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 2 months ago) - tools for bitwarden
@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [ramazansakin](https://github.com/ramazansakin)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [jeffy1931](https://github.com/jeffy1931)
 - [aryashah2k](https://github.com/aryashah2k)
 - [Yozh2](https://github.com/Yozh2)
-- [StevenACZ](https://github.com/StevenACZ)
 
 #### ❤️ Sponsors
 
