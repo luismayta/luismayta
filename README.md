@@ -42,11 +42,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [yekoroglu27](https://github.com/yekoroglu27)
+- [phuru-dev](https://github.com/phuru-dev)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [nilax97](https://github.com/nilax97)
 - [kuldipmochi](https://github.com/kuldipmochi)
-- [Ayushparikh-code](https://github.com/Ayushparikh-code)
-- [ramazansakin](https://github.com/ramazansakin)
 
 #### ❤️ Sponsors
 
