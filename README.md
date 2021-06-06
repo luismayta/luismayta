@@ -2,10 +2,12 @@
 
 I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, Python, Haskell and Dart Lover!!
 
-- 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
-- 🥅 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about Flutter, Go, Python or any tech related stuff.
+- 🔭 I’m currently working on being a Backend/DevOps, cloud consultant, and solutions architect to make your business resilient, robust, and scalable.
+- 🌱 I’m currently learning a ton of stuff related to APIs, message queues services, cloud services (focus AWS), and proficiency in programming languages (or runtime libraries 😬) like Go, Rust, Python, Ruby, Scala, Deno, HCL (Terraform), and others...
+
+* 👯 I’m looking to collaborate on [YouTube](https://youtube.com/slovacus).
+* 🥅 Goals: Contribute more to Open Source projects.
+* 💬 Ask me about Flutter, Go, Python or any tech related stuff.
 
 #### Favorite Quotes ⚡
 
