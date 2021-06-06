@@ -1,19 +1,25 @@
-exclude: 'provision/ansible/prod/roles/contrib|provision/ansible/dev/roles/contrib|vendor|docs|.serverless|.serveless_nextjs|node_modules|migrations|.git|.tox|.gen'
-default_language_version:
-  # force all unspecified python hooks to run python3
-  python: python3.8.0
-
 repos:
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.0.0
+    hooks:
+      - id: codespell
+        args: [--ignore-words=.codespell-ignores]
+        exclude: >
+          (?x)^(
+            .+\.vendor\/.*$|
+            .+\.node_modules\/.*$|
+            .+\.lock$|
+          )$
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.4.0
+    rev: v4.0.1
     hooks:
       - id: detect-private-key
         files: ^(?!\.?git-crypt)
+        exclude: >
+          (?x)^(
+            .+\.gitleaks.toml$|
+          )$
       - id: check-merge-conflict
-      - id: trailing-whitespace
-        files: ^tf|-|\.(py|tfvars|tf|tfenv|env|yml|yaml|pem|key|mock)$
-      - id: end-of-file-fixer
-        files: ^tf|-|\.(py|env|yml|yaml|pem|key|mock)$
       - id: check-added-large-files
         files: ^tf|-|\.(py|env|yml|yaml)$
       - id: check-case-conflict
@@ -26,17 +32,19 @@ repos:
       - id: check-docstring-first
       - id: requirements-txt-fixer
       - id: check-symlinks
+      - id: name-tests-test
+        args:
+          - --django
       - id: file-contents-sorter
       - id: fix-encoding-pragma
       - id: sort-simple-yaml
-      - id: mixed-line-ending
-        fix: lr
-      - id: check-executables-have-shebangs
   - repo: https://github.com/hadenlabs/pre-commit-hooks
-    rev: 854ed71a505def3024bf9a79887032e9906b355c
+    rev: 2bed7c6ec4930b235aaf54aff1cf34e3df694f37
     hooks:
       - id: do-not-commit
       - id: markdown-link-check
+        args:
+          - --config=.github/linters/markdown-link-config.json
         exclude: \.tpl.md$
   - repo: local
     hooks:
@@ -46,23 +54,18 @@ repos:
         entry: ./node_modules/prettier/bin-prettier.js
         args:
           - '--write=true'
-          - '--list-different'
           - '--config=.github/linters/prettier.config.js'
           - '--ignore-path=.github/linters/.prettierignore'
         files: \.(js|jsx|json|ts|tsx|mjs|d.ts|md|yml|yaml|gql|graphql|mjml)$
         exclude: node_modules
       - id: eslint
         name: eslint
-        language: system
-        pass_filenames: true
-        entry: node_modules/eslint/bin/eslint.js --config=.github/linters/.eslintrc.js --ignore-path=.github/linters/.eslintignore --color
+        language: node
+        entry: node_modules/eslint/bin/eslint.js
         args:
           - '--fix'
+          - '--color'
+          - '--config=.github/linters/.eslintrc.js'
+          - '--ignore-path=.github/linters/.eslintignore'
         files: \.(js|jsx|ts|tsx|mjs|d.ts)$
-      - id: stylint
-        name: stylint
-        language: system
-        pass_filenames: true
-        entry: node_modules/stylelint/bin/stylelint.js --config=.github/linters/.stylintrc --syntax less **/*.less
-        args: [--fix]
-        files: \.(css|scss|sass|less)$
+        exclude: node_modules
