@@ -3,6 +3,9 @@
   "ignorePatterns": [
     {
       "pattern": "^https://hadenlabs.com"
+    },
+    {
+      "pattern": "^https://www.linkedin.com/in/luismayta"
     }
   ],
   "replacementPatterns": [
