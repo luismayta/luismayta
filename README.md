@@ -40,7 +40,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 - [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.9.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.9.0), 2 months ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 2 months ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 2 months ago) - tools for bitwarden
-- [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 2 months ago) - readme template
+- [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 3 months ago) - readme template
 
 #### 👯 Check out some of my recent followers
 
