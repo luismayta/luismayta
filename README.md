@@ -48,7 +48,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 - [gchiappe](https://github.com/gchiappe)
 - [HangeZoe](https://github.com/HangeZoe)
 - [kholdarboev](https://github.com/kholdarboev)
-- [phuru-dev](https://github.com/phuru-dev)
+- [yekoroglu27](https://github.com/yekoroglu27)
 
 #### ❤️ Sponsors
 
