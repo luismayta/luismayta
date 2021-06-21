@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [shabnamghaemiprogrammer](https://github.com/shabnamghaemiprogrammer)
 - [siddastic](https://github.com/siddastic)
 - [imsomedev](https://github.com/imsomedev)
 - [abdheshnayak](https://github.com/abdheshnayak)
 - [estefanysan](https://github.com/estefanysan)
-- [gchiappe](https://github.com/gchiappe)
 
 #### ❤️ Sponsors
 
