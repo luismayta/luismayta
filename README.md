@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [krishna2808](https://github.com/krishna2808)
+- [PROCW](https://github.com/PROCW)
 - [ViniciusRubens](https://github.com/ViniciusRubens)
 - [nonunicorn](https://github.com/nonunicorn)
 - [shabnamghaemiprogrammer](https://github.com/shabnamghaemiprogrammer)
-- [siddastic](https://github.com/siddastic)
-- [imsomedev](https://github.com/imsomedev)
 
 #### ❤️ Sponsors
 
