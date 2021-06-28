@@ -28,7 +28,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 📓 Gists I wrote
 
-- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (4 months ago)
+- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (5 months ago)
 - [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (5 months ago)
 - [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (5 months ago)
 - [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (5 months ago)
