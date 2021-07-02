@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
-- [MertJA](https://github.com/MertJA)
 - [aditineemkar](https://github.com/aditineemkar)
 - [YeshwanthKM](https://github.com/YeshwanthKM)
-- [krishna2808](https://github.com/krishna2808)
 - [PROCW](https://github.com/PROCW)
+- [ViniciusRubens](https://github.com/ViniciusRubens)
+- [nonunicorn](https://github.com/nonunicorn)
 
 #### ❤️ Sponsors
 
