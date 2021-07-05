@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [JustNikhill](https://github.com/JustNikhill)
 - [swingology](https://github.com/swingology)
 - [JuanMartinBorda](https://github.com/JuanMartinBorda)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [aditineemkar](https://github.com/aditineemkar)
-- [YeshwanthKM](https://github.com/YeshwanthKM)
 
 #### ❤️ Sponsors
 
