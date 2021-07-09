@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [MssLune](https://github.com/MssLune)
+- [taipe1](https://github.com/taipe1)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV)
 - [Kakise](https://github.com/Kakise)
-- [JustNikhill](https://github.com/JustNikhill)
-- [swingology](https://github.com/swingology)
 
 #### ❤️ Sponsors
 
