@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [formidablae](https://github.com/formidablae)
+- [UsernameUsernameUsern](https://github.com/UsernameUsernameUsern)
+- [nimiology](https://github.com/nimiology)
 - [Isabelar07](https://github.com/Isabelar07)
 - [obrienser](https://github.com/obrienser)
-- [aktwork](https://github.com/aktwork)
-- [Novusvetus](https://github.com/Novusvetus)
-- [MssLune](https://github.com/MssLune)
 
 #### ❤️ Sponsors
 
