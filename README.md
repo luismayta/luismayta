@@ -46,9 +46,9 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 - [Galielo-App](https://github.com/Galielo-App)
 - [aktwork](https://github.com/aktwork)
-- [formidablae](https://github.com/formidablae)
 - [nimiology](https://github.com/nimiology)
 - [Isabelar07](https://github.com/Isabelar07)
+- [obrienser](https://github.com/obrienser)
 
 #### ❤️ Sponsors
 
