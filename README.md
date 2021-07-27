@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
+- [Doge-Chia](https://github.com/Doge-Chia)
 - [wg-d](https://github.com/wg-d)
 - [donPabloNow](https://github.com/donPabloNow)
 - [Galielo-App](https://github.com/Galielo-App)
 - [nimiology](https://github.com/nimiology)
-- [Isabelar07](https://github.com/Isabelar07)
 
 #### ❤️ Sponsors
 
