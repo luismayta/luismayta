@@ -28,7 +28,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 📓 Gists I wrote
 
-- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (5 months ago)
+- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (6 months ago)
 - [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (6 months ago)
 - [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (6 months ago)
 - [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (6 months ago)
@@ -44,11 +44,11 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👯 Check out some of my recent followers
 
-- [Doge-Chia](https://github.com/Doge-Chia)
+- [zakarialaoui10](https://github.com/zakarialaoui10)
+- [rh4y](https://github.com/rh4y)
 - [wg-d](https://github.com/wg-d)
 - [donPabloNow](https://github.com/donPabloNow)
 - [Galielo-App](https://github.com/Galielo-App)
-- [nimiology](https://github.com/nimiology)
 
 #### ❤️ Sponsors
 
