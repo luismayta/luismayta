@@ -47,8 +47,8 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 - [zakarialaoui10](https://github.com/zakarialaoui10)
 - [rh4y](https://github.com/rh4y)
 - [wg-d](https://github.com/wg-d)
-- [donPabloNow](https://github.com/donPabloNow)
 - [Galielo-App](https://github.com/Galielo-App)
+- [Isabelar07](https://github.com/Isabelar07)
 
 #### ❤️ Sponsors
 
