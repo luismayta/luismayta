@@ -36,7 +36,7 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.7](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.7), 1 day ago) - Contains our custom action for running pre-commit
+- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.8](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.8), today) - Contains our custom action for running pre-commit
 - [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.11.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.11.0), 1 week ago) - github repository for terraform
 - [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 4 months ago) - Get notified when your command is done
 - [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 5 months ago) - tools for bitwarden
