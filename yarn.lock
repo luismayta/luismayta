@@ -284,7 +284,7 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/handlebars-helpers@^0.5.2":
+"@types/handlebars-helpers@^0.5.3":
   version "0.5.3"
   resolved "https://registry.yarnpkg.com/@types/handlebars-helpers/-/handlebars-helpers-0.5.3.tgz#5ff8da505867e1962c964cb50b15f83f948bde4f"
   integrity sha512-h+a3eIWts6BgqzlmlmCH6K7yvCfbcEm5Gs+6CMYwbAi8SgC3I/+HEPEciDVT7qav+6BPE0M0nB2UhnwRYkO68w==
