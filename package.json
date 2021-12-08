@@ -68,7 +68,7 @@
     "handlebars-helpers": "^0.10.0",
     "lint-staged": "^12.1.2",
     "node-plop": "^0.30.0",
-    "plop": "^3.0.2",
+    "plop": "^3.0.3",
     "prettier": "^2.5.1",
     "prettier-eslint": "^13.0.0",
     "slugify": "^1.6.3",
