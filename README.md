@@ -20,35 +20,35 @@ I'm a Passionate Coder {;} | Cryptocurrency and AI Enthusiast | Terraform, Go, P
 
 #### 👨‍💻 Repositories I created recently
 
-- [luismayta/test-repository](https://github.com/luismayta/test-repository) - description 1
-- [luismayta/learn-groovy](https://github.com/luismayta/learn-groovy) - Learn groovy
-- [luismayta/pagerduty-examples](https://github.com/luismayta/pagerduty-examples) - Pagerduty examples
-- [luismayta/learn-lua](https://github.com/luismayta/learn-lua) - Learn lua
-- [luismayta/learn-python](https://github.com/luismayta/learn-python) - Learn python
+- [luismayta/testing-UPB2PHZqN8TgjwxkyHhQzJ](https://github.com/luismayta/testing-UPB2PHZqN8TgjwxkyHhQzJ) - description 2
+- [luismayta/testing-EgWFt4znYKTE5stEGu5J4g](https://github.com/luismayta/testing-EgWFt4znYKTE5stEGu5J4g) - description 1
+- [luismayta/testing-jnPjfMZHWXRrLbDz9MWsJT](https://github.com/luismayta/testing-jnPjfMZHWXRrLbDz9MWsJT) - description 1
+- [luismayta/testing-EhWMZQcuYB539NLjMw5ABV](https://github.com/luismayta/testing-EhWMZQcuYB539NLjMw5ABV) - description 2
+- [luismayta/testing-NUvvH5LDWmCvvhB3UNfU25](https://github.com/luismayta/testing-NUvvH5LDWmCvvhB3UNfU25) - description 2
 
 #### 📓 Gists I wrote
 
-- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (6 months ago)
-- [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (7 months ago)
-- [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (7 months ago)
-- [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (7 months ago)
-- [](https://gist.github.com/1dd993b8a459c789e309eed162e3e73c) (7 months ago)
+- [How to change your commit messages in Git? — First published in fullweb.io issue #55](https://gist.github.com/ee9f83723b18caa34d538144c84f0cc3) (1 year ago)
+- [](https://gist.github.com/580d065caebcf7549683c151ce1b450e) (1 year ago)
+- [](https://gist.github.com/60f0987cc474c16bbfdd2212833ade2c) (1 year ago)
+- [](https://gist.github.com/63eadbab77e835adc93356f01740e1f1) (1 year ago)
+- [](https://gist.github.com/1dd993b8a459c789e309eed162e3e73c) (1 year ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [hadenlabs/action-pre-commit](https://github.com/hadenlabs/action-pre-commit) ([0.1.8](https://github.com/hadenlabs/action-pre-commit/releases/tag/0.1.8), 1 day ago) - Contains our custom action for running pre-commit
-- [hadenlabs/terraform-github-repository](https://github.com/hadenlabs/terraform-github-repository) ([0.11.0](https://github.com/hadenlabs/terraform-github-repository/releases/tag/0.11.0), 1 week ago) - github repository for terraform
-- [luismayta/zsh-notify](https://github.com/luismayta/zsh-notify) ([0.1.0](https://github.com/luismayta/zsh-notify/releases/tag/0.1.0), 4 months ago) - Get notified when your command is done
-- [hadenlabs/zsh-bitwarden](https://github.com/hadenlabs/zsh-bitwarden) ([0.1.0](https://github.com/hadenlabs/zsh-bitwarden/releases/tag/0.1.0), 5 months ago) - tools for bitwarden
-- [hadenlabs/readme](https://github.com/hadenlabs/readme) ([0.1.0](https://github.com/hadenlabs/readme/releases/tag/0.1.0), 5 months ago) - readme template
+- [hadenlabs/terraform-aws-s3-bucket](https://github.com/hadenlabs/terraform-aws-s3-bucket) ([0.1.0](https://github.com/hadenlabs/terraform-aws-s3-bucket/releases/tag/0.1.0), today) - Terraform aws s3 bucket
+- [hadenlabs/terraform-aws-iam-s3-user](https://github.com/hadenlabs/terraform-aws-iam-s3-user) ([0.1.0](https://github.com/hadenlabs/terraform-aws-iam-s3-user/releases/tag/0.1.0), today) - Terraform aws iam s3 user
+- [hadenlabs/terraform-aws-iam-system-user](https://github.com/hadenlabs/terraform-aws-iam-system-user) ([0.1.1](https://github.com/hadenlabs/terraform-aws-iam-system-user/releases/tag/0.1.1), 1 day ago) - terraform aws iam system user
+- [hadenlabs/action-confluence-sync](https://github.com/hadenlabs/action-confluence-sync) ([0.1.0](https://github.com/hadenlabs/action-confluence-sync/releases/tag/0.1.0), 2 months ago) - Action confluence sync
+- [hadenlabs/docker-kali-linux](https://github.com/hadenlabs/docker-kali-linux) ([0.2.0](https://github.com/hadenlabs/docker-kali-linux/releases/tag/0.2.0), 2 months ago) - Docker kali linux
 
 #### 👯 Check out some of my recent followers
 
-- [vjanz](https://github.com/vjanz)
-- [www-root](https://github.com/www-root)
-- [zakarialaoui10](https://github.com/zakarialaoui10)
-- [rh4y](https://github.com/rh4y)
-- [wg-d](https://github.com/wg-d)
+- [xjkun1](https://github.com/xjkun1)
+- [dev-emr](https://github.com/dev-emr)
+- [sboghossian](https://github.com/sboghossian)
+- [eulercode](https://github.com/eulercode)
+- [GearHiram1397](https://github.com/GearHiram1397)
 
 #### ❤️ Sponsors
 
