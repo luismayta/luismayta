@@ -23,7 +23,6 @@ jobs:
     runs-on: ubuntu-20.04
     if: github.ref == 'refs/heads/develop' && !contains(github.event.head_commit.message, 'ci skip')
     env:
-      NODE_VERSION: 14.15.5
       LANG: en_US.UTF-8
       LC_ALL: en_US.UTF-8
       GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
@@ -39,39 +38,6 @@ jobs:
           template: 'provision/templates/README.tpl.md'
           writeTo: 'README.md'
 
-      - name: Use Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v2
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-
-      - name: install yarn
-        run: npm install -g yarn
-
-      - name: get package manager's global cache path
-        id: global-cache-dir-path
-        run: echo "::set-output name=dir::$(yarn cache dir)"
-
-      - name: cache package manager's global cache and node_modules
-        id: cache-dependencies
-        uses: actions/cache@v2
-        with:
-          path: |
-            ${{ steps.global-cache-dir-path.outputs.dir }}
-            node_modules
-          key: ${{ runner.os }}-${{ matrix.node-version }}-${{
-            hashFiles('**/yarn.lock'
-            ) }}
-          restore-keys: |
-            ${{ runner.os }}-${{ matrix.node-version }}-
-
-      - name: install dependencies
-        run: yarn install --frozen-lockfile
-        if: |
-          steps.cache-dependencies.outputs.cache-hit != 'true'
-
-      - name: prettier
-        run: yarn prettier:fix
-
       - name: commit readme
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
@@ -80,6 +46,6 @@ jobs:
           commit_message: 'build: update readme ci skip'
           branch: develop
           commit_options: '--no-verify --signoff'
-          commit_user_name: '@slovacus'
-          commit_user_email: 'slovacus@gmail.com'
-          commit_author: 'slovacus <slovacus@gmail.com>'
+          commit_user_name: 'Luis Mayta'
+          commit_user_email: 'luis@hadenlabs.com'
+          commit_author: 'Luis Mayta <luis@hadenlabs.com>'
