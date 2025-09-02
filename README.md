@@ -57,3 +57,6 @@ Many thanks everyone! 🙏
 #### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-luismayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismayta)](https://www.linkedin.com/in/luismayta) [![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:slovacus@gmail.com) [![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/luismayta)
+
+
+<!-- Security scan triggered at 2025-09-02 15:57:46 -->
